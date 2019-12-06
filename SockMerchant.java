@@ -23,4 +23,5 @@ public class SockMerchant {
 		
 		sockMerchant(9, startValues);
 	}
+	
 }
